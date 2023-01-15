@@ -307,7 +307,7 @@ nav li {
     
   }
   body {
-    padding: 5% 10%;
+    padding: 5% 5%;
   }
 
   /* Home Section */
@@ -315,6 +315,7 @@ nav li {
     font-weight: 700;
     font-size: 18px;
     color: #131313;
+    text-align: center;
   }
   nav {
     display: flex;
@@ -327,8 +328,9 @@ nav li {
   }
   nav li {
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
     color: #424242;
+    text-align: center;
   }
   .home-intro {
     display: flex;
@@ -341,10 +343,10 @@ nav li {
   }
   .home-intro .tittle {
     font-weight: 700;
-    font-size: 28px;
-    line-height: 45px;
+    font-size: 29px;
+    line-height: 40px;
     color: #131313;
-    padding: 0 30px;
+    padding: 0 1%;
     text-align: center;
   }
   .home-intro .desc {
@@ -383,10 +385,10 @@ nav li {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 80%;
+  width: 85%;
   height: 304px;
   text-align: left;
-  padding: 10px 50px;
+  padding: 10% 2%;
 }
 .fetr-img img {
   width: 300px;
